@@ -1,0 +1,162 @@
+﻿
+
+/* Reset */
+
+html, body { margin: 0; padding: 0; border: 0;
+		background: transparent; font-size:16px; overflow-y: scroll;}
+
+div {	margin: 0; mpadding: 0; border: 0; vertical-align: baseline; background: transparent;}
+
+img 	{ margin:0; padding:0; border:0; }
+
+table, tr, th, td, tbody, tfoot, thead {
+	margin: 0; padding: 0; border: 0;
+	vertical-align: baseline;
+	background: transparent;
+	}
+	
+table { border-collapse: collapse; border-spacing: 0; }
+	
+input, select, textarea, form, fieldset {
+	margin: 0; padding: 0; border: 0;
+	}
+
+article, aside, dialog, figure, footer, header, hgroup, nav, section { 
+	display:block; }
+
+h1, h2, h3, h4, h5, h6, p, li, blockquote, td, th, caption, em, strong, strike { 
+	font-family: Arial , Helvetica, sans-serif;
+	font-size:100%;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 100%; 
+	text-indent: 0;
+	text-decoration: none;
+	text-align: left;
+	color: #000;
+	}
+
+ol, ul { list-style: none; }
+
+
+/* Global */
+
+html 	{	}
+body	{ background-color: #eeeeee  }
+
+
+
+/* Headings */
+
+h1, h2, h3, h4, h5, h6 { font-weight: bold; color: #000; }
+
+h1 { font-size:24px; }
+h2 { font-size:20px; }
+h3 { font-size:16px; }
+h4 { font-size:13px; }
+h5 { font-size:13px; }
+h6 { font-size:13px; }
+
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img { margin: 0; }
+
+
+
+/* Text Elements */
+
+p           	{ color:#000; line-height:130% }
+p .left			{ margin: 1.5em 1.5em 1.5em 0; padding: 0; }
+p .right 		{ margin: 1.5em 0 1.5em 1.5em; padding: 0; }
+
+a           	{ text-decoration:none; color: #333333 }
+a:focus			{ color: #111;  }
+a:hover     	{ color: #111;  }
+a:visited		{ color: black }
+blockquote  	{ color:#000; }
+
+strong      	{ font-weight: bold; }
+em		      	{ font-style: italic; }
+
+
+/* Lists */
+
+\
+ul          	{  }
+ol          	{ list-style-type:decimal; }
+
+ul li		    { font-size:16px; }
+
+dl          	{  	}
+dt       		{  	}
+dd          	{ 	}
+
+
+
+
+/* Containers */
+
+#wrapper 			{ background-color:white ; width: 1100px; height:auto; text-align: left; margin:0px auto}  
+
+#header	 			{ width:1100px ; padding:0px 0 0 0; overflow:hidden; background-color:#4571ad}
+
+#logo	 			{ margin:15px 2px 3px 1px ; float:right; width:18% }
+#logo img			{ width: 84% }
+
+#topnav 			{ width:70% ;float: left ;  margin: 4.4% 0px 0px 0px }
+#topnav ul			{ float:left; margin: 0px }
+#topnav ul li		{ display:inline ; font-size:15pt; float:left; padding-right:18px; font-weight:bold; padding-left:0px}
+#topnav ul li a		{ padding: 3px 0px 1px 0px}
+#topnav a:hover		{ background-color: #CCFFFF }
+#footer 			{ margin-top:20px ; float:left; font-size:xx-small }
+
+
+#main	 			{ float:left ; width:100% ; padding: 0px 10px 7px 0px ; margin: 21px 20px 3pt 27pt ; text-align: left; font-size:18pt; font-family:Georgia, "Times New Roman", Times, serif}
+#topImages			{ width: 100%; justify-content: center;}
+
+#content 			{ width:100% ; overflow:hidden ; padding-bottom:15px ; margin-bottom:15px ; border-top:1px gray solid }
+
+#research			{ width: 90% ; padding:21px 5px 10px 30px }
+#research p			{ text-align:left ; padding-bttom:10px}
+#research td		{ text-align:left ; padding-bttom:10px; vertical-align:top; margin:2px 15px 5px 5px; padding:5px 20px 5px 5px}
+#research table		{ margin: 10px 0 10px 0}
+
+#specificProjects	{ width:90% ; padding:10px 5px 20px 40px; text-align:left}
+#specificProjects img {  margin-top:21px; margin-right:5px }
+
+#publication		{ width:100% ; font-size:medium ; padding:8px 5px 10px 5px}
+#publication li		{ padding-top:14px ; padding-right:12px}
+#publication li p	{ line-height:100% ; margin:2px 0 4px 0}
+#pubNote			{ color:#663300; line-height:108%; width:75%; font-size:10pt}
+#pubNote table th	{ display: inline-block; vertical-align:top; padding-top:8px}
+#pubNote a			{ font-style:italic; color:#663300; padding-top:2px}
+
+#numbering 			{ margin-top:5pt; vertical-align:text-top; padding-left:2px; padding-top:12pt; text-align:right; padding-right:3pt; font-size:11pt}
+#papers				{ margin-left:0pt; padding-left:0px; padding-bottom:15pt; line-height:135%; font-size:11pt}
+#publication table	{ margin-left:0pt; width:94%}
+
+#gang				{ height:540px; background-image:url('../Images/labPhoto_201902.jpg') ;background-size: 890px 534px; background-repeat: no-repeat; margin-left:5px}
+
+/*#gang:hover			{ background-image:url('../Images/labphoto_20170721_2.jpg')  }*/
+
+
+*/
+
+
+#people				{ width:90% ; float:center ; margin-top:20px; margin-left:50%; table-layout:inherit; padding-left:1px}
+#people td			{ height:210px; padding:5px 0 5px 10px;vertical-align:top; line-height:14px; border-bottom:thin gray solid; border-top:thin gray solid}
+#people td img		{ width: 190px ; padding-top:2px; padding-right:0; margin-left: 40px}
+#job_title			{ margin-top:2px; padding-top:1px}
+#person_info		{ padding:10px 0px 0px 0px ; color:#666666; margin-left:0px}
+#person_info a		{ font-weight:bolder; color:maroon}
+#collaborators 		{ width:100%; margin-left:3.1%}
+#alumni				{ width:90% ; float:left ; margin-left:45px ;margin-bottom:2%; margin-top:10px; font-family: Arial , Helvetica, sans-serif;}
+
+#photo				{ width: 150px }
+
+
+#contact			{ width::100% ; padding:30px 0.5% 0 1.9% ; margin-top:5px; margin-bottom:5px; font-family:Arial, Helvetica, sans-serif}
+#contact img		{ width:38% ; float :left ; padding-right: 3.5%; margin-left:2.5%; bottom:auto}
+#contact iframe		{ width:50% ; padding-top : 19px; height:260px}
+
+#newsArchive		{ padding:30px }
+#newsArchive li		{ line-height:18px}
+#newsArchive li img	{ width:321px ; padding:2px 2px 0 0}
