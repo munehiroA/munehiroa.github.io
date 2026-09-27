@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "content_pages_per_language": 8,
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "pages": [
+    "index",
+    "research",
+    "resources",
+    "methods",
+    "publications",
+    "people",
+    "news",
+    "join"
+  ],
+  "redirects": {
+    "bacterial-electrophysiology": "resources",
+    "bioelectricity": "resources#bioelectricity",
+    "bacterial-membrane-potential": "resources#membrane",
+    "bacterial-communication": "resources#communication",
+    "electrical-signalling-bacteria": "resources#communication",
+    "microbial-biophysics": "resources",
+    "measuring-bacterial-membrane-potential": "methods#measurement",
+    "optical-control-bacterial-membrane-potential": "methods#optical",
+    "physics-of-life": "research#physics",
+    "engineering-biology": "research#engineering",
+    "collective-dynamics": "research#collective",
+    "electrical-communication": "research#electrophysiology",
+    "electrical-response-growth": "research#electrophysiology",
+    "beast-antifungal-screening": "research#engineering",
+    "funding": "research#funding",
+    "publication": "publications"
+  }
+}

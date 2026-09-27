@@ -1,0 +1,17 @@
+# Adapt these optional 301 mappings to your host.
+/bacterial-electrophysiology.html /resources.html 301
+/bioelectricity.html /resources.html#bioelectricity 301
+/bacterial-membrane-potential.html /resources.html#membrane 301
+/bacterial-communication.html /resources.html#communication 301
+/electrical-signalling-bacteria.html /resources.html#communication 301
+/microbial-biophysics.html /resources.html 301
+/measuring-bacterial-membrane-potential.html /methods.html#measurement 301
+/optical-control-bacterial-membrane-potential.html /methods.html#optical 301
+/physics-of-life.html /research.html#physics 301
+/engineering-biology.html /research.html#engineering 301
+/collective-dynamics.html /research.html#collective 301
+/electrical-communication.html /research.html#electrophysiology 301
+/electrical-response-growth.html /research.html#electrophysiology 301
+/beast-antifungal-screening.html /research.html#engineering 301
+/funding.html /research.html#funding 301
+/publication.html /publications.html 301

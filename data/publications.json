@@ -1,0 +1,669 @@
+[
+  {
+    "id": 0,
+    "title": "Emergence of synchronized growth oscillations in filamentous fungi",
+    "authors": [
+      "Prakash P",
+      "Jiang X",
+      "Richards L",
+      "Schofield Z",
+      "Schäfer P",
+      "Polin M",
+      "Soyer OS",
+      "Asally M"
+    ],
+    "journal": "Journal of The Royal Society Interface",
+    "year": 2024,
+    "volume": "21",
+    "issue": "219",
+    "pages": "20240574",
+    "doi": "10.1098/rsif.2024.0574",
+    "source": "https://api.crossref.org/works/10.1098/rsif.2024.0574",
+    "type": "article"
+  },
+  {
+    "id": 1,
+    "title": "Membrane potential dynamics unveil the promise of bioelectrical antimicrobial susceptibility Testing (BeAST) for anti-fungal screening",
+    "authors": [
+      "de Souza-Guerreiro TC",
+      "Huan Bacellar L",
+      "da Costa TS",
+      "Edwards CLA",
+      "Tasic L",
+      "Asally M"
+    ],
+    "journal": "mBio",
+    "year": 2024,
+    "volume": "15",
+    "issue": "8",
+    "pages": "e01302-24",
+    "doi": "10.1128/mbio.01302-24",
+    "source": "https://api.crossref.org/works/10.1128/mbio.01302-24",
+    "type": "article"
+  },
+  {
+    "id": 2,
+    "title": "Thioflavin T indicates mitochondrial membrane potential in mammalian cells",
+    "authors": [
+      "Skates E",
+      "Delattre H",
+      "Schofield Z",
+      "Asally M",
+      "Soyer OS"
+    ],
+    "journal": "Biophysical Reports",
+    "year": 2023,
+    "volume": "3",
+    "issue": "4",
+    "pages": "100134",
+    "doi": "10.1016/j.bpr.2023.100134",
+    "source": "https://api.crossref.org/works/10.1016/j.bpr.2023.100134",
+    "type": "article"
+  },
+  {
+    "id": 3,
+    "title": "Phase-separated nuclear bodies of nucleoporin fusions promote condensation of MLL1/CRM1 and rearrangement of 3D genome structure",
+    "authors": [
+      "Oka M",
+      "Otani M",
+      "Miyamoto Y",
+      "Oshima R",
+      "Adachi J",
+      "Tomonaga T",
+      "Asally M",
+      "Nagaoka Y",
+      "Tanaka K",
+      "Toyoda A",
+      "Ichikawa K",
+      "Morishita S",
+      "Isono K",
+      "Koseki H",
+      "Nakato R",
+      "Ohkawa Y",
+      "Yoneda Y"
+    ],
+    "journal": "Cell Reports",
+    "year": 2023,
+    "volume": "42",
+    "issue": "8",
+    "pages": "112884",
+    "doi": "10.1016/j.celrep.2023.112884",
+    "source": "https://api.crossref.org/works/10.1016/j.celrep.2023.112884",
+    "type": "article"
+  },
+  {
+    "id": 4,
+    "title": "Membrane Targeted Azobenzene Drives Optical Modulation of Bacterial Membrane Potential",
+    "authors": [
+      "de Souza‐Guerreiro TC",
+      "Bondelli G",
+      "Grobas I",
+      "Donini S",
+      "Sesti V",
+      "Bertarelli C",
+      "Lanzani G",
+      "Asally M",
+      "Paternò GM"
+    ],
+    "journal": "Advanced Science",
+    "year": 2023,
+    "volume": "10",
+    "issue": "8",
+    "pages": "2205007",
+    "doi": "10.1002/advs.202205007",
+    "source": "https://api.crossref.org/works/10.1002/advs.202205007",
+    "type": "article"
+  },
+  {
+    "id": 5,
+    "title": "Electrotaxis behavior of droplets composed of aqueous Belousov-Zhabotinsky solutions suspended in oil phase",
+    "authors": [
+      "Back O",
+      "Asally M",
+      "Wang Z",
+      "Hayashi Y"
+    ],
+    "journal": "Scientific Reports",
+    "year": 2023,
+    "volume": "13",
+    "issue": "1",
+    "pages": "1340",
+    "doi": "10.1038/s41598-023-27639-8",
+    "source": "https://api.crossref.org/works/10.1038/s41598-023-27639-8",
+    "type": "article"
+  },
+  {
+    "id": 6,
+    "title": "The dynamics of single-to-multi layer transition in bacterial swarms",
+    "authors": [
+      "Grobas I",
+      "Asally M",
+      "Polin M"
+    ],
+    "journal": "Frontiers in Soft Matter",
+    "year": 2022,
+    "volume": "2",
+    "issue": "",
+    "pages": "936779",
+    "doi": "10.3389/frsfm.2022.936779",
+    "source": "https://api.crossref.org/works/10.3389/frsfm.2022.936779",
+    "type": "article"
+  },
+  {
+    "id": 7,
+    "title": "Seeking Insights into Aging Through Yeast Mitochondrial Electrophysiology",
+    "authors": [
+      "de Souza-Guerreiro TC",
+      "Asally M"
+    ],
+    "journal": "Bioelectricity",
+    "year": 2021,
+    "volume": "3",
+    "issue": "2",
+    "pages": "111-115",
+    "doi": "10.1089/bioe.2021.0011",
+    "source": "https://api.crossref.org/works/10.1089/bioe.2021.0011",
+    "type": "article"
+  },
+  {
+    "id": 8,
+    "title": "Swarming bacteria undergo localized dynamic phase transition to form stress-induced biofilms",
+    "authors": [
+      "Grobas I",
+      "Polin M",
+      "Asally M"
+    ],
+    "journal": "eLife",
+    "year": 2021,
+    "volume": "10",
+    "issue": "",
+    "pages": "e62632",
+    "doi": "10.7554/elife.62632",
+    "source": "https://api.crossref.org/works/10.7554/eLife.62632",
+    "type": "article"
+  },
+  {
+    "id": 9,
+    "title": "An agent-based model of the interrelation between the COVID-19 outbreak and economic activities",
+    "authors": [
+      "Kano T",
+      "Yasui K",
+      "Mikami T",
+      "Asally M",
+      "Ishiguro A"
+    ],
+    "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+    "year": 2021,
+    "volume": "477",
+    "issue": "2245",
+    "pages": "20200604",
+    "doi": "10.1098/rspa.2020.0604",
+    "source": "https://api.crossref.org/works/10.1098/rspa.2020.0604",
+    "type": "article"
+  },
+  {
+    "id": 10,
+    "title": "Biofilm and swarming emergent behaviours controlled through the aid of biophysical understanding and tools",
+    "authors": [
+      "Grobas I",
+      "Bazzoli DG",
+      "Asally M"
+    ],
+    "journal": "Biochemical Society Transactions",
+    "year": 2020,
+    "volume": "48",
+    "issue": "6",
+    "pages": "2903-2913",
+    "doi": "10.1042/bst20200972",
+    "source": "https://api.crossref.org/works/10.1042/BST20200972",
+    "type": "article"
+  },
+  {
+    "id": 11,
+    "title": "Bioelectrical understanding and engineering of cell biology",
+    "authors": [
+      "Schofield Z",
+      "Meloni GN",
+      "Tran P",
+      "Zerfass C",
+      "Sena G",
+      "Hayashi Y",
+      "Grant M",
+      "Contera SA",
+      "Minteer SD",
+      "Kim M",
+      "Prindle A",
+      "Rocha P",
+      "Djamgoz MBA",
+      "Pilizota T",
+      "Unwin PR",
+      "Asally M",
+      "Soyer OS"
+    ],
+    "journal": "Journal of The Royal Society Interface",
+    "year": 2020,
+    "volume": "17",
+    "issue": "166",
+    "pages": "20200013",
+    "doi": "10.1098/rsif.2020.0013",
+    "source": "https://api.crossref.org/works/10.1098/rsif.2020.0013",
+    "type": "article"
+  },
+  {
+    "id": 12,
+    "title": "The Microbiologist’s Guide to Membrane Potential Dynamics",
+    "authors": [
+      "Benarroch JM",
+      "Asally M"
+    ],
+    "journal": "Trends in Microbiology",
+    "year": 2020,
+    "volume": "28",
+    "issue": "4",
+    "pages": "304-314",
+    "doi": "10.1016/j.tim.2019.12.008",
+    "source": "https://api.crossref.org/works/10.1016/j.tim.2019.12.008",
+    "type": "article"
+  },
+  {
+    "id": 13,
+    "title": "Scanning Ion Conductance Microscopy Reveals Differences in the Ionic Environments of Gram-Positive and Negative Bacteria",
+    "authors": [
+      "Cremin K",
+      "Jones BA",
+      "Teahan J",
+      "Meloni GN",
+      "Perry D",
+      "Zerfass C",
+      "Asally M",
+      "Soyer OS",
+      "Unwin PR"
+    ],
+    "journal": "Analytical Chemistry",
+    "year": 2020,
+    "volume": "92",
+    "issue": "24",
+    "pages": "16024-16032",
+    "doi": "10.1021/acs.analchem.0c03653",
+    "source": "https://api.crossref.org/works/10.1021/acs.analchem.0c03653",
+    "type": "article"
+  },
+  {
+    "id": 14,
+    "title": "One-dimensional reaction-diffusion model for intra- and inter- biofilm oscillatory dynamics",
+    "authors": [
+      "Mikami T",
+      "Asally M",
+      "Kano T",
+      "Ishiguro A"
+    ],
+    "journal": "ALIFE 2020",
+    "year": 2020,
+    "volume": "",
+    "issue": "",
+    "pages": "712-714",
+    "doi": "10.1162/isal_a_00261",
+    "source": "https://api.crossref.org/works/10.1162/isal_a_00261",
+    "type": "conference"
+  },
+  {
+    "id": 15,
+    "title": "Pattern Engineering of Living Bacterial Colonies Using Meniscus-Driven Fluidic Channels",
+    "authors": [
+      "Kantsler V",
+      "Ontañón-McDonald E",
+      "Kuey C",
+      "Ghanshyam MJ",
+      "Roffin MC",
+      "Asally M"
+    ],
+    "journal": "ACS Synthetic Biology",
+    "year": 2020,
+    "volume": "9",
+    "issue": "6",
+    "pages": "1277-1283",
+    "doi": "10.1021/acssynbio.0c00146",
+    "source": "https://api.crossref.org/works/10.1021/acssynbio.0c00146",
+    "type": "article"
+  },
+  {
+    "id": 16,
+    "title": "Rapid Detection of Proliferative Bacteria by Electrical Stimulation",
+    "authors": [
+      "LA Edwards C",
+      "Malyshev D",
+      "Stratford J",
+      "Asally M"
+    ],
+    "journal": "BIO-PROTOCOL",
+    "year": 2020,
+    "volume": "10",
+    "issue": "3",
+    "pages": "e3508",
+    "doi": "10.21769/bioprotoc.3508",
+    "source": "https://api.crossref.org/works/10.21769/BioProtoc.3508",
+    "type": "article"
+  },
+  {
+    "id": 17,
+    "title": "Interrogating metabolism as an electron flow system",
+    "authors": [
+      "Zerfaß C",
+      "Asally M",
+      "Soyer OS"
+    ],
+    "journal": "Current Opinion in Systems Biology",
+    "year": 2019,
+    "volume": "13",
+    "issue": "",
+    "pages": "59-67",
+    "doi": "10.1016/j.coisb.2018.10.001",
+    "source": "https://api.crossref.org/works/10.1016/j.coisb.2018.10.001",
+    "type": "article"
+  },
+  {
+    "id": 18,
+    "title": "Electrical Polarization Enables Integrative Quality Control during Bacterial Differentiation into Spores",
+    "authors": [
+      "Sirec T",
+      "Benarroch JM",
+      "Buffard P",
+      "Garcia-Ojalvo J",
+      "Asally M"
+    ],
+    "journal": "iScience",
+    "year": 2019,
+    "volume": "16",
+    "issue": "",
+    "pages": "378-389",
+    "doi": "10.1016/j.isci.2019.05.044",
+    "source": "https://api.crossref.org/works/10.1016/j.isci.2019.05.044",
+    "type": "article"
+  },
+  {
+    "id": 19,
+    "title": "Electrically induced bacterial membrane-potential dynamics correspond to cellular proliferation capacity",
+    "authors": [
+      "Stratford JP",
+      "Edwards CLA",
+      "Ghanshyam MJ",
+      "Malyshev D",
+      "Delise MA",
+      "Hayashi Y",
+      "Asally M"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": 2019,
+    "volume": "116",
+    "issue": "19",
+    "pages": "9552-9557",
+    "doi": "10.1073/pnas.1901788116",
+    "source": "https://api.crossref.org/works/10.1073/pnas.1901788116",
+    "type": "article"
+  },
+  {
+    "id": 20,
+    "title": "A reaction-diffusion model for simulating the oscillatory expansion of biofilms",
+    "authors": [
+      "Mikami T",
+      "Asally M",
+      "Kano T",
+      "Ishiguro A"
+    ],
+    "journal": "ALIFE 2019",
+    "year": 2019,
+    "volume": "",
+    "issue": "",
+    "pages": "218-219",
+    "doi": "10.1162/isal_a_00164",
+    "source": "https://api.crossref.org/works/10.1162/isal_a_00164",
+    "type": "conference"
+  },
+  {
+    "id": 21,
+    "title": "Decentralized Control Scheme for Swarm Robots with Self-Sacrifice",
+    "authors": [
+      "Kano T",
+      "Asally M",
+      "Ishiguro A"
+    ],
+    "journal": "ALIFE 2018",
+    "year": 2018,
+    "volume": "",
+    "issue": "",
+    "pages": "544-545",
+    "doi": "10.1162/isal_a_00100",
+    "source": "https://api.crossref.org/works/10.1162/isal_a_00100",
+    "type": "conference"
+  },
+  {
+    "id": 22,
+    "title": "Impact of spatial organization on a novel auxotrophic interaction among soil microbes",
+    "authors": [
+      "Jiang X",
+      "Zerfaß C",
+      "Feng S",
+      "Eichmann R",
+      "Asally M",
+      "Schäfer P",
+      "Soyer OS"
+    ],
+    "journal": "The ISME Journal",
+    "year": 2018,
+    "volume": "12",
+    "issue": "6",
+    "pages": "1443-1456",
+    "doi": "10.1038/s41396-018-0095-z",
+    "source": "https://api.crossref.org/works/10.1038/s41396-018-0095-z",
+    "type": "article"
+  },
+  {
+    "id": 23,
+    "title": "Ion channels enable electrical communication in bacterial communities",
+    "authors": [
+      "Prindle A",
+      "Liu J",
+      "Asally M",
+      "Ly S",
+      "Garcia-Ojalvo J",
+      "Süel GM"
+    ],
+    "journal": "Nature",
+    "year": 2015,
+    "volume": "527",
+    "issue": "7576",
+    "pages": "59-63",
+    "doi": "10.1038/nature15709",
+    "source": "https://api.crossref.org/works/10.1038/nature15709",
+    "type": "article"
+  },
+  {
+    "id": 24,
+    "title": "Metabolic co-dependence gives rise to collective oscillations within biofilms",
+    "authors": [
+      "Liu J",
+      "Prindle A",
+      "Humphries J",
+      "Gabalda-Sagarra M",
+      "Asally M",
+      "Lee DyD",
+      "Ly S",
+      "Garcia-Ojalvo J",
+      "Süel GM"
+    ],
+    "journal": "Nature",
+    "year": 2015,
+    "volume": "523",
+    "issue": "7562",
+    "pages": "550-554",
+    "doi": "10.1038/nature14660",
+    "source": "https://api.crossref.org/works/10.1038/nature14660",
+    "type": "article"
+  },
+  {
+    "id": 25,
+    "title": "Differential Role for Transcription Factor Oct4 Nucleocytoplasmic Dynamics in Somatic Cell Reprogramming and Self-renewal of Embryonic Stem Cells",
+    "authors": [
+      "Oka M",
+      "Moriyama T",
+      "Asally M",
+      "Kawakami K",
+      "Yoneda Y"
+    ],
+    "journal": "Journal of Biological Chemistry",
+    "year": 2013,
+    "volume": "288",
+    "issue": "21",
+    "pages": "15085-15097",
+    "doi": "10.1074/jbc.m112.448837",
+    "source": "https://api.crossref.org/works/10.1074/jbc.m112.448837",
+    "type": "article"
+  },
+  {
+    "id": 26,
+    "title": "Localized cell death focuses mechanical forces during 3D patterning in a biofilm",
+    "authors": [
+      "Asally M",
+      "Kittisopikul M",
+      "Rué P",
+      "Du Y",
+      "Hu Z",
+      "Çağatay T",
+      "Robinson AB",
+      "Lu H",
+      "Garcia-Ojalvo J",
+      "Süel GM"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": 2012,
+    "volume": "109",
+    "issue": "46",
+    "pages": "18891-18896",
+    "doi": "10.1073/pnas.1212429109",
+    "source": "https://api.crossref.org/works/10.1073/pnas.1212429109",
+    "type": "article"
+  },
+  {
+    "id": 27,
+    "title": "Nuclear retention of importin α coordinates cell fate through changes in gene expression",
+    "authors": [
+      "Yasuda Y",
+      "Miyamoto Y",
+      "Yamashiro T",
+      "Asally M",
+      "Masui A",
+      "Wong C",
+      "Loveland KL",
+      "Yoneda Y"
+    ],
+    "journal": "The EMBO Journal",
+    "year": 2012,
+    "volume": "31",
+    "issue": "1",
+    "pages": "83-94",
+    "doi": "10.1038/emboj.2011.360",
+    "source": "https://api.crossref.org/works/10.1038/emboj.2011.360",
+    "type": "article"
+  },
+  {
+    "id": 28,
+    "title": "Nup358, a nucleoporin, functions as a key determinant of the nuclear pore complex structure remodeling during skeletal myogenesis",
+    "authors": [
+      "Asally M",
+      "Yasuda Y",
+      "Oka M",
+      "Otsuka S",
+      "Yoshimura SH",
+      "Takeyasu K",
+      "Yoneda Y"
+    ],
+    "journal": "FEBS Journal",
+    "year": 2011,
+    "volume": "278",
+    "issue": "4",
+    "pages": "610-621",
+    "doi": "10.1111/j.1742-4658.2010.07982.x",
+    "source": "https://api.crossref.org/works/10.1111/j.1742-4658.2010.07982.x",
+    "type": "article"
+  },
+  {
+    "id": 29,
+    "title": "The Mobile FG Nucleoporin Nup98 Is a Cofactor for Crm1-dependent Protein Export",
+    "authors": [
+      "Oka M",
+      "Asally M",
+      "Yasuda Y",
+      "Ogawa Y",
+      "Tachibana T",
+      "Yoneda Y"
+    ],
+    "journal": "Molecular Biology of the Cell",
+    "year": 2010,
+    "volume": "21",
+    "issue": "11",
+    "pages": "1885-1896",
+    "doi": "10.1091/mbc.e09-12-1041",
+    "source": "https://api.crossref.org/works/10.1091/mbc.e09-12-1041",
+    "type": "article"
+  },
+  {
+    "id": 30,
+    "title": "Two Isoforms of Npap60 (Nup50) Differentially Regulate Nuclear Protein Import",
+    "authors": [
+      "Ogawa Y",
+      "Miyamoto Y",
+      "Asally M",
+      "Oka M",
+      "Yasuda Y",
+      "Yoneda Y"
+    ],
+    "journal": "Molecular Biology of the Cell",
+    "year": 2010,
+    "volume": "21",
+    "issue": "4",
+    "pages": "630-638",
+    "doi": "10.1091/mbc.e09-05-0374",
+    "source": "https://api.crossref.org/works/10.1091/mbc.e09-05-0374",
+    "type": "article"
+  },
+  {
+    "id": 31,
+    "title": "Triggering neural differentiation of ES cells by subtype switching of importin-α",
+    "authors": [
+      "Yasuhara N",
+      "Shibazaki N",
+      "Tanaka S",
+      "Nagai M",
+      "Kamikawa Y",
+      "Oe S",
+      "Asally M",
+      "Kamachi Y",
+      "Kondoh H",
+      "Yoneda Y"
+    ],
+    "journal": "Nature Cell Biology",
+    "year": 2007,
+    "volume": "9",
+    "issue": "1",
+    "pages": "72-79",
+    "doi": "10.1038/ncb1521",
+    "source": "https://api.crossref.org/works/10.1038/ncb1521",
+    "type": "article"
+  },
+  {
+    "id": 32,
+    "title": "β-Catenin can act as a nuclear import receptor for its partner transcription factor, lymphocyte enhancer factor-1 (lef-1)",
+    "authors": [
+      "Asally M",
+      "Yoneda Y"
+    ],
+    "journal": "Experimental Cell Research",
+    "year": 2005,
+    "volume": "308",
+    "issue": "2",
+    "pages": "357-363",
+    "doi": "10.1016/j.yexcr.2005.05.011",
+    "source": "https://api.crossref.org/works/10.1016/j.yexcr.2005.05.011",
+    "type": "article"
+  }
+]

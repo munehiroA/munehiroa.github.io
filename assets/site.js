@@ -1,0 +1,11 @@
+(()=>{'use strict';
+const old={work:'research.html',team:'people.html',papers:'publications.html',funding:'research.html#funding',news:'news.html'};
+const legacy=()=>{if(/(?:\/|index\.html)$/.test(location.pathname)&&old[location.hash.slice(1)])location.replace(old[location.hash.slice(1)]);};legacy();addEventListener('hashchange',legacy);
+document.querySelectorAll('[data-language]').forEach(a=>{const base=a.getAttribute('href');const sync=()=>a.setAttribute('href',base+location.hash);sync();addEventListener('hashchange',sync);});
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+document.querySelectorAll('video[data-loop]').forEach(v=>{let started=false;const hint=v.closest('figure').querySelector('.motion-hint');
+const controls=document.createElement('div');controls.className='video-options';
+const label=document.createElement('label');label.textContent=document.documentElement.lang==='ja'?'再生速度 ':'Playback speed ';const select=document.createElement('select');[.5,1,1.5,2].forEach(n=>{const o=new Option(n+'×',n,n===1,n===1);select.add(o);});select.addEventListener('change',()=>v.playbackRate=Number(select.value));label.append(select);controls.append(label);hint.after(controls);
+const io=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting&&!started&&!reduced.matches){started=true;v.muted=true;v.play().catch(()=>{});} });},{threshold:.3});io.observe(v);
+reduced.addEventListener('change',()=>{if(reduced.matches)v.pause();});
+});})();

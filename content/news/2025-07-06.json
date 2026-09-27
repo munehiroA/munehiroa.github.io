@@ -1,0 +1,22 @@
+{
+  "date": "2025-07",
+  "published": true,
+  "en": {
+    "title": "Lab retreat",
+    "body": "The team spent a day together bowling and playing pool.",
+    "link": "",
+    "link_label": "",
+    "summary": "The team spent a day together bowling and playing pool."
+  },
+  "ja": {
+    "title": "研究室の交流会",
+    "body": "研究室のメンバーでボウリングとビリヤードを楽しみました。",
+    "link": "",
+    "link_label": "",
+    "summary": "研究室のメンバーでボウリングとビリヤードを楽しみました。"
+  },
+  "images": [
+    "/images/bowling202507.jpg",
+    "/images/pool_202507.jpg"
+  ]
+}

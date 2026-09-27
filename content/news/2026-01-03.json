@@ -1,0 +1,19 @@
+{
+  "date": "2026-01",
+  "published": true,
+  "en": {
+    "title": "A new photoswitch preprint",
+    "body": "Our collaboration with Giuseppe Maria Paternò at Politecnico di Milano explores a dipolar photoswitch and context-dependent bacterial bioelectrical circuitry.",
+    "link": "https://doi.org/10.64898/2026.01.20.700538",
+    "link_label": "Read the preprint",
+    "summary": "Our collaboration with Giuseppe Maria Paternò at Politecnico di Milano explores a dipolar photoswitch and context-dependent bacterial bioelectrical circuitry."
+  },
+  "ja": {
+    "title": "光スイッチに関するプレプリント",
+    "body": "ミラノ工科大学のGiuseppe Maria Paternòとの共同研究で、双極子型の光スイッチと、細菌の条件依存的な生体電気の仕組みを調べました。",
+    "link": "https://doi.org/10.64898/2026.01.20.700538",
+    "link_label": "プレプリントを読む",
+    "summary": "ミラノ工科大学のGiuseppe Maria Paternòとの共同研究で、双極子型の光スイッチと、細菌の条件依存的な生体電気の仕組みを調べました。"
+  },
+  "images": []
+}
