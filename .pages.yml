@@ -1,12 +1,12 @@
 media:
-  input: asallylab-site/images
+  input: /images
   output: /images
   extensions: [jpg, jpeg, png, webp, gif]
 content:
   - name: news
     label: News / ニュース
     type: collection
-    path: asallylab-site/content/news
+    path: /content/news
     format: json
     filename:
       template: "{date}-{primary}.json"
