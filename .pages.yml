@@ -1,0 +1,82 @@
+media:
+  input: asallylab-site/images
+  output: /images
+  extensions: [jpg, jpeg, png, webp, gif]
+content:
+  - name: news
+    label: News / ニュース
+    type: collection
+    path: asallylab-site/content/news
+    format: json
+    filename:
+      template: "{date}-{primary}.json"
+      field: create
+    view:
+      primary: en.title
+      fields: [en.title, date, published]
+      sort: [date]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: date
+        label: Date (YYYY-MM or YYYY-MM-DD)
+        type: string
+        required: true
+      - name: published
+        label: Publish
+        type: boolean
+        required: true
+      - name: en
+        label: English
+        type: object
+        required: true
+        fields:
+          - name: title
+            label: Title
+            type: string
+            required: true
+          - name: body
+            label: Full news text
+            type: text
+            required: true
+          - name: summary
+            label: Homepage excerpt
+            type: text
+            required: true
+          - name: link
+            label: Optional link URL
+            type: string
+          - name: link_label
+            label: Link text
+            type: string
+      - name: ja
+        label: 日本語
+        type: object
+        required: true
+        fields:
+          - name: title
+            label: 見出し
+            type: string
+            required: true
+          - name: body
+            label: 本文
+            type: text
+            required: true
+          - name: summary
+            label: トップページの要約
+            type: text
+            required: true
+          - name: link
+            label: 任意のリンク先
+            type: string
+          - name: link_label
+            label: リンクの表示文
+            type: string
+      - name: images
+        label: Images
+        type: image
+        options:
+          multiple:
+            max: 6
+          unique: true
