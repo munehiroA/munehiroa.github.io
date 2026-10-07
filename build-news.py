@@ -10,7 +10,7 @@ import json,re,sys
 from urllib.parse import urlsplit
 
 ROOT=Path(__file__).resolve().parent
-SITE=ROOT/'asallylab-site'
+SITE=ROOT
 START='<!-- NEWS_GENERATED_START -->'
 END='<!-- NEWS_GENERATED_END -->'
 DATE=re.compile(r'^\d{4}-\d{2}(?:-\d{2})?$')
