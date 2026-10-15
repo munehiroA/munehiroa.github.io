@@ -80,3 +80,30 @@ content:
           multiple:
             max: 6
           unique: true
+  - name: site_html
+    label: Site HTML (advanced)
+    type: group
+    items:
+      - name: home_en
+        label: English homepage
+        type: file
+        path: index.html
+        format: code
+
+      - name: news_en
+        label: English news page
+        type: file
+        path: news.html
+        format: code
+
+      - name: home_ja
+        label: Japanese homepage
+        type: file
+        path: ja/index.html
+        format: code
+
+      - name: news_ja
+        label: Japanese news page
+        type: file
+        path: ja/news.html
+        format: code
