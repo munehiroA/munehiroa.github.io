@@ -80,6 +80,7 @@ content:
           multiple:
             max: 6
           unique: true
+          
   - name: site_html
     label: Site HTML (advanced)
     type: group
